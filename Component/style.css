@@ -1,0 +1,35 @@
+* {
+    background-color: aqua;
+}
+
+.myDiv {
+    width: 50vw;
+    display: inline-block;
+}
+
+.btn {
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 2em;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(9, 124, 9);
+}
+
+.showbox {
+    bottom: 30vh;
+    padding: 3rem 1em;
+    margin: 0 5em;
+    position: absolute;
+    border-radius: 2em;
+    width: fit-content;
+    text-align: center;
+    color: aliceblue;
+    margin-left: 0;
+}
+
+.showbox h1 {
+    background-color: red;
+}
